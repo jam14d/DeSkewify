@@ -227,3 +227,6 @@ with tab2:
 
 with tab3:
     show_skew_explorer_tab()
+
+
+#add normal tests
