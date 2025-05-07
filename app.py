@@ -49,13 +49,6 @@ with st.sidebar:
     | What data is suitable? | Two numeric columns |
     | What to avoid? | Categorical X unless using bar/box plots |
 
-    **Should You Transform?**
-    | Question | Answer |
-    |----------|--------|
-    | Should we transform Y? | Almost always a good option if it's skewed |
-    | Should we transform X? | Sometimes — if it's skewed, nonlinear, or has huge scale |
-    | Should we transform both? | You can, but be cautious — only do it if you can interpret both |
-
     ### References
 
     - [NIST: Skewness Explained](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm)
