@@ -1,15 +1,24 @@
-# DeSkewify: Straighten the Story
+# DeSkewify: Straighten the Story Behind Your Data
 
-**DeSkewify** is an app that helps detect and fix skewed numeric data using transformations like Log10, Z-score, Min-Max, and Yeo-Johnson. 
+**DeSkewify** is an app that helps users understand and correct data skewness for clearer insights and better modeling. 
 
-[Live App](https://deskewify.streamlit.app/)
+[Live App](https://deskewify-app.streamlit.app/)
 
-## Features
+## 1. Main App: Data Transformation Toolkit
 
-- Analyze skewness in numeric columns
-- Apply transformations to X and Y axes
-- Visualize original vs transformed data
-- View summary statistics
-- Learn from an integrated sidebar guide
+Transform your own data and see the difference:
 
+1. **Upload a CSV** or use the included COVID-19 dataset.
+2. **Detect skewness** in numeric columns and get transformation suggestions.
+3. **Apply transformations** like Log10, Z-score, Min-Max scaling, or Yeo-Johnson.
+4. **Visualize** original vs. transformed data through scatter or line plots.
+5. **Compare summary statistics** and make data-driven decisions with confidence.
+## 2. Educational Modules
 
+Learn the *what*, *why*, and *how* of data skewness:
+
+- Understand the difference between **normal**, **left-skewed**, and **right-skewed** distributions.
+- Explore **real-world examples** and intuitive analogies (like the "wallet money" scenario).
+- Visualize how transformations (e.g., **log**, **square root**, **z-score**) reshape skewed data into more balanced forms.
+- Gain insight into how skewness affects statistical modeling and data relationships.
+---
