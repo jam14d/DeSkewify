@@ -1,6 +1,6 @@
 # DeSkewify: Straighten the Story Behind Your Data
 
-[Live App](https://deskewify-app.streamlit.app/)
+[Live App](https://deskewify.streamlit.app/)
 
 ## 1. Main App: Data Transformation Toolkit
 
@@ -16,7 +16,7 @@ Transform your own data and see the difference:
 Learn the *what*, *why*, and *how* of data skewness:
 
 - Understand the difference between **normal**, **left-skewed**, and **right-skewed** distributions.
-- Explore **real-world examples** and intuitive analogies (like the "wallet money" scenario).
+- Explore **real-world examples** and intuitive analogies.
 - Visualize how transformations (e.g., **log**, **square root**, **z-score**) reshape skewed data into more balanced forms.
 - Gain insight into how skewness affects statistical modeling and data relationships.
 ---
