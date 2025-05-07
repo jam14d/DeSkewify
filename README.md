@@ -1,7 +1,5 @@
 # DeSkewify: Straighten the Story Behind Your Data
 
-**DeSkewify** is an app that helps users understand and correct data skewness for clearer insights and better modeling. 
-
 [Live App](https://deskewify-app.streamlit.app/)
 
 ## 1. Main App: Data Transformation Toolkit
