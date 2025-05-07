@@ -2,7 +2,7 @@
 
 **DeSkewify** is an app that helps detect and fix skewed numeric data using transformations like Log10, Z-score, Min-Max, and Yeo-Johnson. 
 
-[Live App](https://your-app-url.streamlit.app)
+[Live App](https://deskewify.streamlit.app/)
 
 ## Features
 
